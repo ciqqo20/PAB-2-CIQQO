@@ -18,7 +18,7 @@ class MainApp extends StatelessWidget {
 }
 
 class myHomePage extends StatelessWidget {
-  const myHomePage();
+  const myHomePage({super.key});
   
   
   // ✨ Tambahkan fungsi ini
